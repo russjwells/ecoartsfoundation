@@ -9,7 +9,7 @@ class App extends Component {
           <h2>EcoArts Foundation</h2>
         </div>
         <p className="App-intro">
-          Welcome to the EcoArts Foundation. More coming soon.
+          Welcome to the EcoArts Foundation. <br />Artists of Ecoculture <br />
         </p>
       </div>
     );
